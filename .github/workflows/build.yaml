@@ -29,5 +29,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/Este11o/gen:v1
+          tags: ghcr.io/este11o/gen:v1
 
